@@ -1,0 +1,1 @@
+in this proyect i used tkinter, yt_dlp and ffmpeg. If you wanna test my script you need install this 2 modules before, and about install ffmpeg in your browser (https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n7.1-latest-win64-gpl-7.1.zip) and select in the folder /bin and put next to main.py  
